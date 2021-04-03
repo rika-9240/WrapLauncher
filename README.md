@@ -12,3 +12,7 @@ TestWpl
 VScodeでWindowsアプリケーションの環境を整えた
 　VScode拡張機能追加：C# , VS Sharper for C# , Draw.io Integration(使うかはわからん)
   Windowsｱﾌﾟﾘsdkのインストール：dotnet-sdk-5.0.201
+  
+### 2021/074/03
+VSで作ってVScode経由でGithubのほうが早いのでコーディングはVSでする
+WindowsアプリケーションはVSのほうがよさそう
